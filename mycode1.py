@@ -3,11 +3,8 @@
 
 # In[1]:
 
-name ="supergirl"
 
-name  = "wonderwoman"
-
-name = "Superman"
+name = "anuj"
 
 
 # In[2]:
